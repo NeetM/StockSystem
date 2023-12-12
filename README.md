@@ -1,2 +1,3 @@
 # StockSystem
-Console Simulation for Digital Store Stock System 
+🎮🛒 Console Simulation for Digital Store Stock System 📦💻
+Made with Java
